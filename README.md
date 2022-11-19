@@ -7,7 +7,7 @@ I'm currently working on [Merkle Innovation](https://www.linkedin.com/company/me
 I speak **PHP**, **Typescript**, **JavaScript**, **Java**, and **Kotlin**. And now expanding to **.NET** and **Python**.
 
 <br />
-Currently learning **Docker**, **Kubernetes**, and **Data Science** to enhance my knowledge.
+Currently interested in **Data Science** to enhance my knowledge.
 
 <br /> <br />
 
