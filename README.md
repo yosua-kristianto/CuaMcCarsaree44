@@ -1,13 +1,13 @@
 # Hey Ho
 
-Hello, I'm CuaMcCarsaree44. I live in Indonesia.
+Hello, I'm CuaMcCarsaree44. I from Indonesia.
 
-I'm currently working on [Merkle Innovation](https://www.linkedin.com/company/merkleinnovation/mycompany/) as Head of Reasearch and Development. Formerly working as Backend Developer, and working with Express JS, Laravel, and Spring Boot.
+I'm currently working on [Merkle Innovation](https://www.linkedin.com/company/merkleinnovation/mycompany/) as Technical Project Auditor. Formerly working as Head of Reasearch and Development.
 
-I speak **PHP**, **Typescript**, **JavaScript**, **Java**, and **Kotlin**. And now expanding to **.NET** and **Python**.
+I speak **PHP**, **Typescript**, **JavaScript**, **C#**, **Java**, and **Kotlin**. And now expanding to **Python** and **R**.
 
 <br />
-Currently interested in **Data Science** to enhance my knowledge.
+Currently interested in **Data Science** and **Artificial Intelligence** to enhance my knowledge.
 
 <br /> <br />
 
