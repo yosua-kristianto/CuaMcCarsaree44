@@ -1,8 +1,6 @@
 # Hey Ho
 
-Hello, I'm CuaMcCarsaree44. I from Indonesia.
-
-I'm currently working on [Merkle Innovation](https://www.linkedin.com/company/merkleinnovation/mycompany/) as Technical Project Auditor. Formerly working as Head of Reasearch and Development.
+Hello, I'm CuaMcCarsaree44. I from Indonesia. Formerly working as Head of Reasearch and Development.
 
 I speak **PHP**, **Typescript**, **JavaScript**, **C#**, **Java**, and **Kotlin**. And now expanding to **Python** and **R**.
 
