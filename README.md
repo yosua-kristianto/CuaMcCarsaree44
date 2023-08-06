@@ -1,11 +1,8 @@
 # Hey Ho
 
-Hello, I'm CuaMcCarsaree44. I from Indonesia. Formerly working as Head of Reasearch and Development.
+Hi, my name is Yosua Kristianto. Currently taking Master Degree of Computer Science at BINUS University.
 
-I speak **PHP**, **Typescript**, **JavaScript**, **C#**, **Java**, and **Kotlin**. And now expanding to **Python** and **R**.
-
-<br />
-Currently interested in **Data Science** and **Artificial Intelligence** to enhance my knowledge.
+Mainly working with **TypeScript**, **PHP**, and **Java**. Currently building my boilerplate to ease developer on working with Node JS TypeScript, and doing a research with Convolutional Recurrent Neural Network. 
 
 <br /> <br />
 
