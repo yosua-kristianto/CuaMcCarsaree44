@@ -2,7 +2,7 @@
 
 Hi, my name is Yosua Kristianto. Currently taking Master Degree of Computer Science at BINUS University.
 
-Mainly working with **TypeScript**, **PHP**, and **Java**. Currently building my boilerplate to ease developer on working with Node JS TypeScript, and doing a research with Convolutional Recurrent Neural Network. 
+Mainly working with **TypeScript**, **PHP**, **Python**, and **C#**. Currently building my boilerplate to ease developer on working with Node JS TypeScript, and doing a research on enhancing OCR! 
 
 <br /> <br />
 
