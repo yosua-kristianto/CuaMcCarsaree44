@@ -1,44 +1,40 @@
-[<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Yosua Kristianto;This+is..;..my+Github..;" alt="Typing SVG"/>
-  </h1>
-</div>](https://readme-typing-svg.herokuapp.com/demo/?font=Consolas&weight=600&size=22&duration=2000&pause=2000&lines=Hello.+I'm+Yosua+Kristianto.;Welcome+to+my+GitHub.;You+can+find+my+works+here.;Crafting...;Projects...;Many+more...)
-
 <div align="center">
-  <h2>Yosua Kristianto</h2>
-  <p>I'm a passionate researcher in IT. Specializing in software engineering and data science. I enjoy exploring new technologies, improving, and inovating through it to solve problems.</p>
-</div>
+  <h1>About Me</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yosua-kristianto-558407160/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5B6J5yPnTXSoSH1Z%2BwcY7w%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <br />
 
-  <a href="mailto:yosua_kristianto144@outlook.com?subject=Hi%20Yosua">
-   ✉️ Email
-  </a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&duration=2000&pause=2000&center=true&vCenter=true&width=435&lines=Hello.+I+am+Yosua+Kristianto.;Welcome+to+my+GitHub." alt="Typing SVG" /></a>
 
-  <a href="https://x.com/yos_kris">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
-</div>
+  <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yosua-kristianto/yosua-kristianto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  [<img alt="Linked In" src="https://img.shields.io/badge/Linked_In_Profile-blue?style=for-the-badge" />](https://www.linkedin.com/in/yosua-kristianto-558407160/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYG2qPkK5SDGEKeaiyTwncA%3D%3D) &nbsp;&nbsp;&nbsp;&nbsp; [<img alt="📧 Mail" src="https://img.shields.io/badge/%F0%9F%93%A7_Email-purple?style=for-the-badge">
+](mailto:yosua_kristianto144@outlook.com?subject=Hi%20Yosua) &nbsp;&nbsp;&nbsp;&nbsp; [<img alt="My Social" src="https://img.shields.io/badge/My_Social-grey?style=for-the-badge">](https://x.com/yos_kris)
 </div>
 
 
 
-# Hey Ho
+<h2> Overview </h2>
 
-Hi, my name is Yosua Kristianto. Currently taking Master Degree of Computer Science at BINUS University.
+<p>
+  I'm a passionate computer scientist in both artificial intelligence and software engineering. I started my career as a Software Engineer, later on continuing my career as Head of Research and Development along side as a Technical Leader for an IT consulting company. 
+  Hmm
+</p>
 
-Mainly working with **TypeScript**, **PHP**, **Python**, and **C#**. Currently building my boilerplate to ease developer on working with Node JS TypeScript, and doing a research on enhancing OCR! 
+<h2> Skill Set </h2>
 
-<br /> <br />
+| Field | Technology Stack |
+|---|---|
+| Data Science | <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorLayerX" src="https://img.shields.io/badge/TensorLayerX-grey?style=for-the-badge" /> |
+| Software Engineering | <img alt="Node JS" src="https://img.shields.io/badge/Node_JS-green?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Java Spring Boot" src="https://img.shields.io/badge/Java_Spring_Boot-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-pink?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-purple?style=for-the-badge" /> |
+| Other | <img alt="Technical Project Manager" src="https://img.shields.io/badge/Project_Management-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Technical Leader" src="https://img.shields.io/badge/Technical_Leader-blue?style=for-the-badge" /> |
 
-> #### Any opportunities, or collaboratives? <br />
-> #### You can reach me at <a href="mailto:yosua_kristianto144@outlook.com">yosua_kristianto144@outlook.com</a>  
+<h2> 🔍 Check These Repositories Out! </h2>
+
+<ul>
+  <li id="checkout-1">  <a href="https://github.com/yosua-kristianto/typescript-expressjs">TypeScript Express.JS</a> </li>
+</ul>
+
+
 
 <!---
 CuaMcCarsaree44/CuaMcCarsaree44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
