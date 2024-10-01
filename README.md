@@ -16,14 +16,8 @@
 <h2> Overview </h2>
 
 <p align="justify">
-  I'm a dedicated IT professional with expertise in both artificial intelligence and software engineering. My journey began as a Software Engineer and evolved into a leadership role as Head of Research and Development and Technical Leader at an IT consulting firm. I recently completed my master's degree, where I focused on using generative adversarial networks (GANs) to improve OCR text extraction.
-  
-  <br />
-  
-  During my first four years, I conducted research to refine and standardize company workflows, ensuring adherence to best practices in the software development life cycle. Alongside this, I led technical teams, providing guidance and orchestrating project execution, while also offering IT consulting solutions tailored to client needs.
-
-  <br />
-  
+  I'm a dedicated IT professional with expertise in both artificial intelligence and software engineering. My journey began as a Software Engineer and evolved into a leadership role as Head of Research and Development and Technical Leader at an IT consulting firm. I recently completed my master's degree, where I focused on using generative adversarial networks (GANs) to improve OCR text extraction. <br /> <br />
+  During my first four years, I conducted research to refine and standardize company workflows, ensuring adherence to best practices in the software development life cycle. Alongside this, I led technical teams, providing guidance and orchestrating project execution, while also offering IT consulting solutions tailored to client needs. <br /> <br />
   In my fifth year, I pursued a master's degree in computer science, specializing in data science. My primary interest lies in Artificial Neural Networks, which led me to explore the field of Computer Vision and conduct thesis research on GANs.
 </p>
 
