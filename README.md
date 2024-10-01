@@ -15,16 +15,23 @@
 
 <h2> Overview </h2>
 
-<p>
-  I'm a passionate computer scientist in both artificial intelligence and software engineering. I started my career as a Software Engineer, later on continuing my career as Head of Research and Development along side as a Technical Leader for an IT consulting company. 
-  Hmm
+<p align="justify">
+  I'm a dedicated IT professional with expertise in both artificial intelligence and software engineering. My journey began as a Software Engineer and evolved into a leadership role as Head of Research and Development and Technical Leader at an IT consulting firm. I recently completed my master's degree, where I focused on using generative adversarial networks (GANs) to improve OCR text extraction.
+  
+  <br />
+  
+  During my first four years, I conducted research to refine and standardize company workflows, ensuring adherence to best practices in the software development life cycle. Alongside this, I led technical teams, providing guidance and orchestrating project execution, while also offering IT consulting solutions tailored to client needs.
+
+  <br />
+  
+  In my fifth year, I pursued a master's degree in computer science, specializing in data science. My primary interest lies in Artificial Neural Networks, which led me to explore the field of Computer Vision and conduct thesis research on GANs.
 </p>
 
 <h2> Skill Set </h2>
 
 | Field | Technology Stack |
 |---|---|
-| Data Science | <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorLayerX" src="https://img.shields.io/badge/TensorLayerX-grey?style=for-the-badge" /> |
+| Data Science | <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorLayerX" src="https://img.shields.io/badge/TensorLayerX-grey?style=for-the-badge" /> |
 | Software Engineering | <img alt="Node JS" src="https://img.shields.io/badge/Node_JS-green?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Java Spring Boot" src="https://img.shields.io/badge/Java_Spring_Boot-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-pink?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-purple?style=for-the-badge" /> |
 | Other | <img alt="Technical Project Manager" src="https://img.shields.io/badge/Project_Management-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Technical Leader" src="https://img.shields.io/badge/Technical_Leader-blue?style=for-the-badge" /> |
 
@@ -32,6 +39,7 @@
 
 <ul>
   <li id="checkout-1">  <a href="https://github.com/yosua-kristianto/typescript-expressjs">TypeScript Express.JS</a> </li>
+  <li> <a href="https://github.com/yosua-kristianto/gan-document-restoration">Beyond OCR: GAN-Driven Restoration of Severly Degrading Document</a> </li>
 </ul>
 
 
