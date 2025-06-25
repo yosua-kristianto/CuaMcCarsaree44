@@ -9,16 +9,38 @@
 <h2> Hi, I'm Yosua Kristianto </h2>
 
 <p align="justify">
-  I'm a <b>Software Engineer</b> who enjoy providing software solutions with solid architecture, clean code, and maintainable systems. My background spans across web, cross-platform development, and data science. I have led projects from ground up including research, implementation, and mentoring juniors.
+  A multidisciplinary Software Engineer with 4+ years of experience in backend systems, cross-platform applications, and technical leadership. Proven track record in delivering IT solutions in health, retail, and government sectors. Adept at mentoring junior engineers, leading IT R&D initiatives, and aligning technical implementations with business needs. 
 </p>
 
 <h2> Skill Set </h2>
 
+<!-- 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Java Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![TensorLayerX](https://img.shields.io/badge/TensorLayerX-FF4C4C?logo=tensorflow&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-107C10?logo=microsoft&logoColor=white&style=for-the-badge)
+-->
+
 | Field | Technology Stack |
 |---|---|
-| Software Engineering | <img alt="Node JS" src="https://img.shields.io/badge/Node_JS-green?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Java Spring Boot" src="https://img.shields.io/badge/Java_Spring_Boot-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-pink?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-purple?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> |
-| Data Science | <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorLayerX" src="https://img.shields.io/badge/TensorLayerX-grey?style=for-the-badge" /> |
-| Other | <img alt="Technical Project Manager" src="https://img.shields.io/badge/Project_Management-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Technical Leader" src="https://img.shields.io/badge/Technical_Leader-blue?style=for-the-badge" /> |
+| Software Engineering | <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Java Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" /> |
+| Data Science | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="TensorLayerX" src="https://img.shields.io/badge/TensorLayerX-FF4C4C?logo=tensorflow&logoColor=white&style=for-the-badge" /> |
+| Dev Tools | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> |
+| Other | <img alt="Technical Project Manager" src="https://img.shields.io/badge/Project_Management-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Technical Leader" src="https://img.shields.io/badge/Technical_Leader-blue?style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="JIRA" src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Microsoft Project" src="https://img.shields.io/badge/Microsoft_Project-107C10?logo=microsoft&logoColor=white&style=for-the-badge" />  |
+
+<h2>🔍 Checkout My Publication!</h2>
+
+<a href="https://doi.org/10.5281/zenodo.15717934">(Dataset) Hand-Picked Text-Focused DocLayNet Subset for Document Super-Resolution Tasks</a>
 
 <h2> 🔍 Check These Repositories Out! </h2>
 
