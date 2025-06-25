@@ -14,23 +14,6 @@
 
 <h2> Skill Set </h2>
 
-<!-- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Java Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![TensorLayerX](https://img.shields.io/badge/TensorLayerX-FF4C4C?logo=tensorflow&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
-![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-107C10?logo=microsoft&logoColor=white&style=for-the-badge)
--->
-
 | Field | Technology Stack |
 |---|---|
 | Software Engineering | <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Java Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" /> |
