@@ -9,7 +9,7 @@
 <h2> Hi, I'm Yosua Kristianto </h2>
 
 <p align="justify">
-  A multidisciplinary Software Engineer with 4+ years of experience in backend systems, cross-platform applications, and technical leadership. Proven track record in delivering IT solutions in health, retail, and government sectors. Adept at mentoring junior engineers, leading IT R&D initiatives, and aligning technical implementations with business needs. 
+  Engineering Leader with proven experience leading cross-functional teams, modernizing engineering workflows, and delivering complex enterprise systems across healthcare, logistics, and government sectors. Strong in technical direction, project planning, stakeholder communication, and high-quality software delivery.
 </p>
 
 <h2> Skill Set </h2>
