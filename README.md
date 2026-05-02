@@ -28,7 +28,7 @@
 <h2> 🔍 Check These Repositories Out! </h2>
 
 <ul>
-  <li id="checkout-1">  <a href="https://github.com/yosua-kristianto/typescript-expressjs">TypeScript Express.JS</a> </li>
+  <li id="checkout-1">  <a href="https://github.com/yosua-kristianto/Cuakx-Express">Cuakx Express</a> </li>
   <li> <a href="https://github.com/yosua-kristianto/gan-document-restoration">Beyond OCR: GAN-Driven Restoration of Severly Degrading Document</a> </li>
 </ul>
 
